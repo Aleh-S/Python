@@ -1,5 +1,3 @@
-
-
 def reverseStr(str1):
     list1 = str1.split(' ')[::-1]
     print (list1)
